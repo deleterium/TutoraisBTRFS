@@ -2,11 +2,13 @@
 Tutoriais e exercícios para entender o funcionamento do sistema de arquivos BTRFS.
 
 ## Realizado
-* Subvolumes - perguntas e respostas
-* Subvolumes - exercícios
+* Subvolumes - Perguntas e respostas
+* Subvolumes - Exercícios
 * Snapshopts - Perguntas e respostas
-* Snapshopts - exercícios usando o snapper
+* Snapshopts - Exercícios usando snapshots manuais
 * Bibliografia
 ## A realizar
+* Snapper - Perguntas e respostas
+* Snapper - Exercícios
 * Opções de montagem - vantagens de usar subvolumes
 
