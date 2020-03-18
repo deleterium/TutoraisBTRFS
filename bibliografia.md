@@ -19,3 +19,8 @@ https://superuser.com/questions/404045/how-to-rename-a-btrfs-subvolume
 
 * Vídeo em alemão montando uma instalação do Gentoo com BTRFS na raiz, subvolumes e snapshots!
 https://www.youtube.com/watch?v=Ca4eEknVg4w
+
+# Snapshots
+
+* Exemplo de integração dos snapshots em subvolumes com o snapper
+https://bbs.archlinux.org/viewtopic.php?id=194491
