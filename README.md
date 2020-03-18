@@ -4,9 +4,9 @@ Tutoriais e exercícios para entender o funcionamento do sistema de arquivos BTR
 ## Realizado
 * Subvolumes - perguntas e respostas
 * Subvolumes - exercícios
-* Bibliografia
-## A realizar
 * Snapshopts - Perguntas e respostas
 * Snapshopts - exercícios usando o snapper
+* Bibliografia
+## A realizar
 * Opções de montagem - vantagens de usar subvolumes
 
