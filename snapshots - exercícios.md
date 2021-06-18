@@ -97,6 +97,7 @@ cat ./imagemMontada/.snapshots/Snap1/exemplo.txt
 sudo mount -o loop,subvolid=5 imagem.img ./btrfs/
 sudo btrfs subvol delete ./btrfs/@arquivos.old
 ```
+Nota: Não apague o subvolume caso ainda estiver montado, especialmente se for a raiz do sistema! A operação será completada e apenas os arquivos abertos continuarão ativos (até serem fechados e apagados definitivamente). A falta dos demais arquivos levará o sistema à instabilidade crítica. 
 
 # Exercícios solucionados:
 
