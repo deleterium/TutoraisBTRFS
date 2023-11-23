@@ -1,5 +1,3 @@
-
-
 # Subvolumes
 
 * Explicações sobre subvolumes no Opensuse, bem como verificação de espaço livre, opções de compressão e opções de checagem de integridade
