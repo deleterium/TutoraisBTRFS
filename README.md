@@ -1,4 +1,4 @@
-# Tutorais BTRFS
+# Tutoriais BTRFS
 Tutoriais e exercícios para entender o funcionamento do sistema de arquivos BTRFS.
 
 ## Realizado
